@@ -62,6 +62,12 @@ header {
     margin-left: 10px;
 }
 
+/* Hover */
+.task-button:hover {
+    background: transparent;
+    border-color: #c6c6c6;
+}
+
 .language-button {
     width: 40px;
     height: 30px;
